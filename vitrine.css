@@ -35,7 +35,6 @@ h1{
    vertical-align: middle;
 }
 nav{
-    display: list-item;
     list-style-position: inside;
     background-color: #2e2f30;
     padding-right: 50px;
@@ -63,7 +62,29 @@ footer{
     
     height:60px;}
 
-h2{background:rgba(0, 0, 0, 0.05);
-    color: #e6e6e6;
+h2{background:rgba(0, 0, 0, 0.5);
+    color: #2E2F2F;
+    
+
+}
+table{margin: auto;
+    height: 480 px;
+    font-family: "OpenSans"
+}
+th{list-style-position: inside;
+    background-color: dodgerblue;
+    color: white;
+}
+.espace
+{
+ height : 20px;
+}
+
+fieldset{padding: 8px;
+    font-family: "OpenSans"
+
+
+
+
 
 }
